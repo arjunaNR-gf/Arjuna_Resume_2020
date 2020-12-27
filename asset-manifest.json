@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Arjuna_Resume_2020/static/css/main.166b39fc.chunk.css",
+    "main.js": "/Arjuna_Resume_2020/static/js/main.10032f5c.chunk.js",
+    "main.js.map": "/Arjuna_Resume_2020/static/js/main.10032f5c.chunk.js.map",
+    "runtime-main.js": "/Arjuna_Resume_2020/static/js/runtime-main.d806786c.js",
+    "runtime-main.js.map": "/Arjuna_Resume_2020/static/js/runtime-main.d806786c.js.map",
+    "static/js/2.488006f1.chunk.js": "/Arjuna_Resume_2020/static/js/2.488006f1.chunk.js",
+    "static/js/2.488006f1.chunk.js.map": "/Arjuna_Resume_2020/static/js/2.488006f1.chunk.js.map",
+    "static/js/3.3c48f44e.chunk.js": "/Arjuna_Resume_2020/static/js/3.3c48f44e.chunk.js",
+    "static/js/3.3c48f44e.chunk.js.map": "/Arjuna_Resume_2020/static/js/3.3c48f44e.chunk.js.map",
+    "index.html": "/Arjuna_Resume_2020/index.html",
+    "static/css/main.166b39fc.chunk.css.map": "/Arjuna_Resume_2020/static/css/main.166b39fc.chunk.css.map",
+    "static/js/2.488006f1.chunk.js.LICENSE.txt": "/Arjuna_Resume_2020/static/js/2.488006f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d806786c.js",
+    "static/js/2.488006f1.chunk.js",
+    "static/css/main.166b39fc.chunk.css",
+    "static/js/main.10032f5c.chunk.js"
+  ]
+}
