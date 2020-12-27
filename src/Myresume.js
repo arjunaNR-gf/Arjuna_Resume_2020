@@ -65,7 +65,7 @@ useEffect(()=>
             <div className="Personal_details">
             
                <div className="Sub_details">
-               <h6 style={{textDecorationLine:"underline"}}>BioData</h6>
+               <h6 style={{textDecorationLine:"underline"}}>Biodata</h6>
                <ul>
               
                    <div style={{width:"90%",height:"auto",padding:"0.5%"}}>
@@ -79,7 +79,7 @@ useEffect(()=>
                   <li>Kendalbail(p),</li>
                   <li>Thirthahalli(T),</li>
                   <li>Shivamogga(D),</li>
-                  <li>Karnatake(S),</li>
+                  <li>Karnataka(S),</li>
                   <li>India(c),</li>
                   <li>PinCode:577411.</li>
                 </ul>
@@ -254,7 +254,7 @@ useEffect(()=>
     <div className="my-clg-exy">
      <p className="p1" style={{width:"15%",backgroundColor:"navy",padding:"0.1%",marginLeft:"1%",marginTop:"1%"}}>HOBIES</p>
      <table>
-     <div style={{width:"100%",height:"auto",backgroundColor:"white",border:"2px solid lavender",marginLeft:"5%",marginTop:"5%",padding:"1%"}}>  <tr><td>Reading Books, </td><td>Play and Watch Crecket,  </td><td>Listen Music</td></tr></div>
+     <div style={{width:"100%",height:"auto",margin:"1px",backgroundColor:"white",border:"2px solid lavender",marginLeft:"5%",marginTop:"5%",padding:"1%"}}>  <tr><td>Reading Books, </td><td>Play and Watch Crecket,  </td><td>Listen Music</td></tr></div>
      </table>
 
     </div>  
